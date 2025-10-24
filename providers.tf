@@ -1,5 +1,5 @@
 provider "google" {
   project = "dynamic-pivot-474614-r7"
-  region  = "us-east1"
-  zone    = "us-east1-a"
+  region  = "us-west1"
+  zone    = "us-west1-a"
 }
